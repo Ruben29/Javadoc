@@ -12,11 +12,11 @@ public class Seleccion {
     int edade;
 
     /**
-     *
-     * @param id
-     * @param nome
-     * @param apelido
-     * @param edade
+     * Descripcion: Recoge los datos de la seleccion
+     * @param id Numero unico entero
+     * @param nome Nombre jugador
+     * @param apelido Apellido jugador
+     * @param edade Numero entero
      */
     public Seleccion(int id, String nome, String apelido, int edade) {
 
